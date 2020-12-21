@@ -1,11 +1,13 @@
 ---
+label-try: ''
+toggle: false
 
 ---
 ## Welcome to Formal Verification
 
 ### Heading 1
 
-Some Code 
+Some Code
 
 ```markdown
 Syntax highlighted code block

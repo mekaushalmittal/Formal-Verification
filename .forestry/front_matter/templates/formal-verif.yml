@@ -16,4 +16,5 @@ fields:
   type: boolean
   label: toggle
 pages:
+- index.md
 - page2.md
