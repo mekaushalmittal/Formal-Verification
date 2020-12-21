@@ -12,5 +12,8 @@ fields:
       format: markdown
   label: label-try
   description: trying front matter
+- name: toggle
+  type: boolean
+  label: toggle
 pages:
 - page2.md
