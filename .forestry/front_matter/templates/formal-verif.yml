@@ -1,6 +1,16 @@
 ---
 label: Formal Verif
 hide_body: false
-fields: []
+fields:
+- name: label-try
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: false
+    schema:
+      format: markdown
+  label: label-try
+  description: trying front matter
 pages:
 - page2.md
