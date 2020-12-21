@@ -1,0 +1,27 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Our Journey -Formal Verification",
+    "description": "",
+    "home_page_url": "https://mekaushalmittal.github.io/Formal-Verification",
+    "feed_url": "https://mekaushalmittal.github.io/Formal-Verification/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Sai Venkatesh, Kaushal Mittal"
+    },
+    "items": [
+        {
+            "id": "https://mekaushalmittal.github.io/Formal-Verification/home1.html",
+            "url": "https://mekaushalmittal.github.io/Formal-Verification/home1.html",
+            "title": "Home1",
+            "summary": "Try1",
+            "content_html": "<p>Try1</p>",
+            "author": {
+                "name": "Sai Venkatesh, Kaushal Mittal"
+            },
+            "tags": [
+            ],
+            "date_published": "2020-12-21T12:03:36+05:30",
+            "date_modified": "2020-12-21T12:03:36+05:30"
+        }
+    ]
+}

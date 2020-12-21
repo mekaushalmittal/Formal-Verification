@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>Our Journey -Formal Verification</title>
+    <link href="https://mekaushalmittal.github.io/Formal-Verification/feed.xml" rel="self" />
+    <link href="https://mekaushalmittal.github.io/Formal-Verification" />
+    <updated>2020-12-21T12:03:36+05:30</updated>
+    <author>
+        <name>Sai Venkatesh, Kaushal Mittal</name>
+    </author>
+    <id>https://mekaushalmittal.github.io/Formal-Verification</id>
+
+    <entry>
+        <title>Home1</title>
+        <author>
+            <name>Sai Venkatesh, Kaushal Mittal</name>
+        </author>
+        <link href="https://mekaushalmittal.github.io/Formal-Verification/home1.html"/>
+        <id>https://mekaushalmittal.github.io/Formal-Verification/home1.html</id>
+
+        <updated>2020-12-21T12:03:36+05:30</updated>
+            <summary>
+                <![CDATA[
+                    Try1
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Try1</p>
+            ]]>
+        </content>
+    </entry>
+</feed>
