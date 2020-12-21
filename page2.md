@@ -1,4 +1,6 @@
 ---
+label-try: ''
+toggle: true
 
 ---
 New Page
